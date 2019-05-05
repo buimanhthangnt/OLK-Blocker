@@ -1,5 +1,5 @@
 {
-	"name": "OLK Blocker",
+	"name": "B.M.T Privacy",
 	"version": "1.0",
 	"description": "Facebook blocker",
 	"permissions": [
@@ -22,7 +22,7 @@
 			"48": "icon.png",
 			"128": "icon.png"
 		},
-		"default_title": "OLK Blocker"
+		"default_title": "B.M.T Privacy"
 	},
 	"author": "Bùi Mạnh Thắng",
 	"manifest_version": 2
